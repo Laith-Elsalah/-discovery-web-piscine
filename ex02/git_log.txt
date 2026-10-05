@@ -1,0 +1,5 @@
+commit 1580ad538863fe323ef1ef62204af28850b29633
+Author: Laith-Elsalah <Laithhaytham2@gmail.com>
+Date:   Mon Oct 5 09:03:27 2026 +0300
+
+    create hello.txt file
