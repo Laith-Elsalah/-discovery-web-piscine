@@ -1,0 +1,40 @@
+div_workspace:
+total 20
+drwxr-xr-x 5 laith laith 4096 Oct  4 11:45 .
+drwxr-xr-x 3 laith laith 4096 Oct  4 11:49 ..
+drwxr-xr-x 2 laith laith 4096 Oct  4 11:45 archives
+drwxr-xr-x 3 laith laith 4096 Oct  4 11:45 projects
+drwxr-xr-x 2 laith laith 4096 Oct  4 11:45 tools
+
+div_workspace/archives:
+total 8
+drwxr-xr-x 2 laith laith 4096 Oct  4 11:45 .
+drwxr-xr-x 5 laith laith 4096 Oct  4 11:45 ..
+
+div_workspace/projects:
+total 12
+drwxr-xr-x 3 laith laith 4096 Oct  4 11:45 .
+drwxr-xr-x 5 laith laith 4096 Oct  4 11:45 ..
+drwxr-xr-x 4 laith laith 4096 Oct  4 11:45 web
+
+div_workspace/projects/web:
+total 16
+drwxr-xr-x 4 laith laith 4096 Oct  4 11:45 .
+drwxr-xr-x 3 laith laith 4096 Oct  4 11:45 ..
+drwxr-xr-x 2 laith laith 4096 Oct  4 11:45 backend
+drwxr-xr-x 2 laith laith 4096 Oct  4 11:45 frontend
+
+div_workspace/projects/web/backend:
+total 8
+drwxr-xr-x 2 laith laith 4096 Oct  4 11:45 .
+drwxr-xr-x 4 laith laith 4096 Oct  4 11:45 ..
+
+div_workspace/projects/web/frontend:
+total 8
+drwxr-xr-x 2 laith laith 4096 Oct  4 11:45 .
+drwxr-xr-x 4 laith laith 4096 Oct  4 11:45 ..
+
+div_workspace/tools:
+total 8
+drwxr-xr-x 2 laith laith 4096 Oct  4 11:45 .
+drwxr-xr-x 5 laith laith 4096 Oct  4 11:45 ..

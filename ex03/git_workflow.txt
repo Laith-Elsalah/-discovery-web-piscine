@@ -1,0 +1,5 @@
+#add-commit-push cycle
+1. edit files in the project.
+2. stage changes using: git add .
+3. commit changes using: git commit -m "commit message"
+4. push to remote repository using: git push origin main
