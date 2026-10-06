@@ -1,1 +1,1 @@
-git@github.com:Laith-Elsalah/-discovery-web-piscine.git
+git@github.com:Laith-Elsalah/ex02-repo.git

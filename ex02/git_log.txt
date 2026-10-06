@@ -1,5 +1,5 @@
-commit 1580ad538863fe323ef1ef62204af28850b29633
+commit 1a293fde04505276873fd90152d1e8edf3c06495
 Author: Laith-Elsalah <Laithhaytham2@gmail.com>
-Date:   Mon Oct 5 09:03:27 2026 +0300
+Date:   Tue Oct 6 10:31:19 2026 +0300
 
-    create hello.txt file
+    Initial commit for ex02
